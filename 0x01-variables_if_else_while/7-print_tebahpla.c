@@ -1,0 +1,18 @@
+#include <stdio.h>
+/**
+ * main - Return point
+ * Description: '  prints the  alphabet in reverse'
+ * Return: always 0
+ */
+int main(void)
+{
+	int n =122;
+
+	while (n >= 97)
+
+	{
+		putchar(n);
+		n--;
+	}
+	return (0);
+}
