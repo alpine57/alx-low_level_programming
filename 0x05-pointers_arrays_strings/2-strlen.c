@@ -5,7 +5,6 @@
  * Return length
  */
 int _strlen(char *s)
-
 {
 	int longi = 0;
 
@@ -15,6 +14,6 @@ int _strlen(char *s)
 		 s++;
 	}
 
-	return (longi);
+		return (longi);
 
 }
