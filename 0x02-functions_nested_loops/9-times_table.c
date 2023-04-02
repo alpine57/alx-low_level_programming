@@ -49,13 +49,7 @@ void times_table(void)
 	_putchar((op % 10) + 48);
 
 	}
-
 	}
-
 	_putchar('\n');
-
 	}
-
 }
-
-
