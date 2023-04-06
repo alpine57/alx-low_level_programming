@@ -43,7 +43,6 @@ int _strlen_recursion(char *s)
 }
 
 /**
-
  * check_pal - checks the characters recursively for palindrome
  * @s: string to check
  * @i: iterator
