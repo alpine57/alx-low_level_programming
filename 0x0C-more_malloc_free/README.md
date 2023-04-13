@@ -1,1 +1,1 @@
-0x0C. C - More malloc, free
+function that allocates memory for an array, using malloc
