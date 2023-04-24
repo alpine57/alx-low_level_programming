@@ -55,14 +55,14 @@ int main(int argc, char *argv[])
 
 	count = 1;
 
-	while (count < argc) 
+	while (count < argc)
 
 	{
 
 	if (check_num(argv[count]))
 
 	{
-	
+
 	str_to_int = atoi(argv[count]);
 
 	sum += str_to_int;
@@ -82,7 +82,7 @@ int main(int argc, char *argv[])
 	count++;
 	}
 
-	printf("%d\n", sum); 
+	printf("%d\n", sum);
 
 	return (0);
 	}
