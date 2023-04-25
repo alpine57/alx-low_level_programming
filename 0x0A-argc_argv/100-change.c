@@ -44,7 +44,7 @@ int coins[] = {25, 10, 5, 2, 1};
 
 	while (num >= coins[j])
 	{
-	result;
+	result++;
 	num -= coins[j];
 
 	}
