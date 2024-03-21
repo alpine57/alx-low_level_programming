@@ -1,3 +1,5 @@
+#include "hash_tables.c"
+
 /**
  * key_index - Returns the index at which the key/value pair should be stored
  * in the array of the hash table
