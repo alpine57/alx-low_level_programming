@@ -3,8 +3,8 @@
  * binary_search - searches to find value in array and return the index
  * @array: array to search for the value
  * @size: size of array searched from
- * @value: value to search 
- * Return: index of value 
+ * @value: value to search
+ * Return: index of value
  */
 
 int binary_search(int *array, size_t size, int value)
